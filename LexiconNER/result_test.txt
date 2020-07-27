@@ -1,0 +1,192 @@
+Test Result: Precision: 0.31982942430703626, Recall: 0.625, F1: 0.4231311706629055
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.2, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.34024064171123, Recall: 0.5302083333333333, F1: 0.4144951140065147
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.3, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.33881578947368424, Recall: 0.7510416666666667, F1: 0.4669689119170985
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.4049079754601227, Recall: 0.48125, F1: 0.4397905759162304
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.2, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.341991341991342, Recall: 0.5760416666666667, F1: 0.4291812184710904
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.3, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.3113207547169811, Recall: 0.75625, F1: 0.44106925880923453
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.31643356643356646, Recall: 0.7541666666666667, F1: 0.4458128078817734
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.7, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.3104019892250311, Recall: 0.7802083333333333, F1: 0.4441150311295583
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.8, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.3076092822450081, Recall: 0.59375, F1: 0.40526128688233204
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.9, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.28375912408759124, Recall: 0.6479166666666667, F1: 0.3946700507614213
+Namespace(batch_size=100, beta=0.2, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.1, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.21027742749054223, Recall: 0.6947916666666667, F1: 0.32284607938044535
+Namespace(batch_size=100, beta=0.2, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.2, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.3242442205097807, Recall: 0.5697916666666667, F1: 0.4132980732905176
+Namespace(batch_size=100, beta=0.2, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.3, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.3319838056680162, Recall: 0.5125, F1: 0.40294840294840295
+Namespace(batch_size=100, beta=0.2, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.18274958303550154, Recall: 0.7989583333333333, F1: 0.2974597634283498
+Namespace(batch_size=100, beta=0.2, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.7, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.3342696629213483, Recall: 0.49583333333333335, F1: 0.39932885906040266
+Namespace(batch_size=100, beta=0.2, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.8, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.17209302325581396, Recall: 0.809375, F1: 0.28383561643835614
+Namespace(batch_size=100, beta=0.2, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.9, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.2692897291773122, Recall: 0.5489583333333333, F1: 0.3613301336990058
+Namespace(batch_size=100, beta=0.3, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.1, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.27411417322834647, Recall: 0.5802083333333333, F1: 0.37232620320855614
+Namespace(batch_size=100, beta=0.3, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.2, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.27249874308697836, Recall: 0.5645833333333333, F1: 0.36758223126483547
+Namespace(batch_size=100, beta=0.3, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.3, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.3322341302555647, Recall: 0.4197916666666667, F1: 0.3709157846295444
+Namespace(batch_size=100, beta=0.3, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.3245674740484429, Recall: 0.48854166666666665, F1: 0.39002079002079
+Namespace(batch_size=100, beta=0.3, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.7, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.23803071364046974, Recall: 0.5489583333333333, F1: 0.3320730938878387
+Namespace(batch_size=100, beta=0.3, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.8, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.24767932489451477, Recall: 0.6114583333333333, F1: 0.3525525525525525
+Namespace(batch_size=100, beta=0.3, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.9, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.2157148053837759, Recall: 0.6177083333333333, F1: 0.31976273928282556
+Namespace(batch_size=100, beta=0.4, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.1, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.4588607594936709, Recall: 0.3020833333333333, F1: 0.364321608040201
+Namespace(batch_size=100, beta=0.4, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.2, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.19097320169252469, Recall: 0.7052083333333333, F1: 0.30055493895671476
+Namespace(batch_size=100, beta=0.4, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.3, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.1668143553389455, Recall: 0.784375, F1: 0.27511874314943374
+Namespace(batch_size=100, beta=0.4, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.4296577946768061, Recall: 0.353125, F1: 0.3876500857632933
+Namespace(batch_size=100, beta=0.4, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.7, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.5555555555555556, Recall: 0.23958333333333334, F1: 0.33478893740902477
+Namespace(batch_size=100, beta=0.4, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.8, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.28942245295262814, Recall: 0.46458333333333335, F1: 0.3566573370651739
+Namespace(batch_size=100, beta=0.4, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.9, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.7, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.1, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.7, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.2, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.7, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.3, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.7, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.7, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.7, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.7, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.8, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.7, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.9, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.8, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.1, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.8, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.2, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.8, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.3, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.8, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.8, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.7, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.8, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.8, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.8, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.9, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.9, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.1, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.9, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.2, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.9, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.3, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.9, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.9, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.7, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.9, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.8, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.9, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.9, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.7, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.1, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.7, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.2, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.7, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.3, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.7, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.7, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.7, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.7, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.8, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.7, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.9, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.8, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.1, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.8, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.2, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.8, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.3, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.8, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.8, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.7, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.8, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.8, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.8, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.9, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.9, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.1, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.9, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.2, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.9, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.3, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.9, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.9, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.7, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.9, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.8, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.04100811618966254, Recall: 1.0, F1: 0.07878539187525647
+Namespace(batch_size=100, beta=0.9, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.9, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.32795156407669024, Recall: 0.6770833333333334, F1: 0.4418762746431
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.34615384615384615, Recall: 0.571875, F1: 0.4312647289866457
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.46200607902735563, Recall: 0.31666666666666665, F1: 0.37577255871446225
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.3587962962962963, Recall: 0.484375, F1: 0.4122340425531915
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.31018078020932444, Recall: 0.6791666666666667, F1: 0.42586544741998694
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.30348687042617306, Recall: 0.734375, F1: 0.4294852269265915
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.31464833421470123, Recall: 0.6197916666666666, F1: 0.41739740441950196
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.3073753605274001, Recall: 0.7770833333333333, F1: 0.44050782403306765
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.3091364205256571, Recall: 0.771875, F1: 0.44146559428060766
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.30254777070063693, Recall: 0.6927083333333334, F1: 0.42115262824572514
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.31822709163346613, Recall: 0.665625, F1: 0.4305929919137466
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.32308552263834545, Recall: 0.6020833333333333, F1: 0.42051655147326295
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.35066864784546803, Recall: 0.7375, F1: 0.4753272910372609
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.39365079365079364, Recall: 0.5166666666666667, F1: 0.44684684684684683
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.2, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.35929786066922653, Recall: 0.6822916666666666, F1: 0.4707150556952928
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.2, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.28158689090125055, Recall: 0.6802083333333333, F1: 0.3982921622445868
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.3329129886506936, Recall: 0.55, F1: 0.4147682639434407
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.36163682864450125, Recall: 0.7364583333333333, F1: 0.48507718696397945
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.38645418326693226, Recall: 0.7072916666666667, F1: 0.4998159735001841
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.3300589390962672, Recall: 0.7, F1: 0.44859813084112155
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.2, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.31752178121974833, Recall: 0.6833333333333333, F1: 0.433575677461996
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.30461270670147955, Recall: 0.7291666666666666, F1: 0.42971147943523635
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.31616341030195383, Recall: 0.7416666666666667, F1: 0.4433374844333749
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
+Test Result: Precision: 0.35554171855541716, Recall: 0.5947916666666667, F1: 0.4450506625097428
+Namespace(batch_size=100, beta=0.1, dataset='disease', drop_out=0.5, flag='Disease', gamma=0.4, lr=0.0001, m=0.3, pert=1.0, print_time=1, type='bnpu')
